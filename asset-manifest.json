@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipieFork/static/css/main.e0200160.css",
+    "main.js": "/RecipieFork/static/js/main.010f50b5.js",
+    "index.html": "/RecipieFork/index.html",
+    "main.e0200160.css.map": "/RecipieFork/static/css/main.e0200160.css.map",
+    "main.010f50b5.js.map": "/RecipieFork/static/js/main.010f50b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0200160.css",
+    "static/js/main.010f50b5.js"
+  ]
+}
